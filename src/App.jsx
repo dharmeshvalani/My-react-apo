@@ -1,4 +1,3 @@
-
 import Section1 from "./components/Section1";
 
 function App() {
